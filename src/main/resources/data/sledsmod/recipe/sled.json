@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:spruce_planks"
+    }
+  },
+  "pattern": [
+    "A  ",
+    "AAA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "sledsmod:sled"
+  }
+}

@@ -1,3 +1,15 @@
+/**
+ * TODO:
+ * 1. Make sleds rideable
+ * 2. Create different variations of sleds, and their functionalities
+ * 3. Add crafting recipe to sleds
+ * 4. Style the dogsleds after the Alaskan style
+ * 5. Add the dog harness item
+ * 6. Only allow huskies to tow the sleds
+ * 7. Allow other mobs to ride as passengers (e.g. snow golems as cannons)
+ *
+ **/
+
 package net.conciliatory.sledsmod;
 
 import com.mojang.logging.LogUtils;
